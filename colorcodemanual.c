@@ -2,7 +2,7 @@
 #include <assert.h>
 #include "colorcodemanual.h"
 
-void DisplayColorCoding()
+void Eachpairofcolors()
 {
     int PairNumber = 0;
   
