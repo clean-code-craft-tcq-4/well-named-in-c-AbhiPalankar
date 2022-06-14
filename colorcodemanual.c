@@ -3,7 +3,7 @@
 #include "colorcodemanual.h"
 
 
-void Eachpairofcolors()
+void DisplayColorCoding()
 {
     int PairNumber = 0;
   
