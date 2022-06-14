@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "colorcode.h"
 
 const int MAX_COLORPAIR_NAME_CHARS = 16;
