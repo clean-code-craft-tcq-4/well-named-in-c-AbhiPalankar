@@ -3,6 +3,6 @@
 
 #include "colorcode.h"
 
-void Eachpairofcolors();
+void DisplayColorCoding();
 
 #endif
