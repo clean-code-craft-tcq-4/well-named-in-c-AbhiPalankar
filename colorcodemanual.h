@@ -2,6 +2,6 @@
 #define COLORCODEMANUAL_H
 #include "colorcode.h"
 
-void Eachpairofcolors();
+void Printonconsole();
 
 #endif
